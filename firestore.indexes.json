@@ -1,0 +1,245 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "balanceHistory",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "balanceHistory_date",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "balanceHistory_receiver",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "balanceHistory",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "balanceHistory_receiver",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "balanceHistory_date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "balanceHistory",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "balanceHistory_receiver",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "balanceHistory_date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "balanceRequest",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "balanceRequest_storeRequestId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "balanceRequest_date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "balanceRequest",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "balanceRequest_storeRequestId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "balanceRequest_date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "balanceRequest",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "balanceRequest_to",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "balanceRequest_date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "balanceRequest",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "balanceRequest_to",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "balanceRequest_date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "cards",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "card_sellingStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "card_broughtDate",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "cards",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "card_sellingStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "card_storeOfStoreId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "card_storeOfStoreProfit",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "cards",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "card_sellingStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "card_storeOfStoreId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "card_storeOfStoreRequestStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "card_storeOfStoreProfit",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "cards",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "card_sellingStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "card_whoBroughtId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "card_broughtDate",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notifications",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "notification_receiver",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "notification_date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notifications",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "notification_receiver",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "notification_date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "stores",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "store_status",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "store_storeType",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "stores",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "store_storeType",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "store_createdData",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "stores",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "store_storeType",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "store_createdData",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

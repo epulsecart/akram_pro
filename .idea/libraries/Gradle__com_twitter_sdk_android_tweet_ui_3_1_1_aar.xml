@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.sdk.android:tweet-ui:3.1.1@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da142f29d5e17860af996f3017bc6e1e/jetified-tweet-ui-3.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da142f29d5e17860af996f3017bc6e1e/jetified-tweet-ui-3.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

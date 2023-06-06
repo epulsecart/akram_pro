@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :hoinprinterlib-release:@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/48037979e055b24bfc79ed41695267d7/jetified-hoinprinterlib-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/48037979e055b24bfc79ed41695267d7/jetified-hoinprinterlib-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

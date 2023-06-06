@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/blue_thermal_printer-1.2.0/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/bluetooth_print-3.0.1/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/bluetooth_thermal_printer-0.0.6/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.16/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/firebase_auth-1.4.1/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.17.0/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-11.4.0/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.2.16/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-9.5.3+1/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.0.2/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.11.2/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer-0.2.1/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-5.2.8/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/hexcolor-2.0.7/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/share_plus-4.0.4/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2+1/android" />
+            <option value="$USER_HOME$/Documents/flutter1.22.6/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

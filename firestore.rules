@@ -1,0 +1,21 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    
+    // Allow any logged in user to view the public store data
+    match /storesInfo/{strId} {
+      allow read;
+    }
+    
+    // Allow admin logged in user to view the public store data
+    match /users/{userId} {
+      allow read;
+    }
+    
+    match /{document=**} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null;
+    }
+  }
+}

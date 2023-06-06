@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :hoinSdk-release:@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b26574521ac2b88fefd3d049c02ddda7/jetified-hoinSdk-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b26574521ac2b88fefd3d049c02ddda7/jetified-hoinSdk-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
